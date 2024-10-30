@@ -11,3 +11,7 @@
 ![Fig 3: ](https://github.com/snmhoque123/Fire_Analytics/blob/main/Screenshot%202024-10-30%20171238.png)
 
 ![Fig 4: ](https://github.com/snmhoque123/Fire_Analytics/blob/main/Screenshot%202024-10-30%20171252.png)
+
+
+References: 
+1. [Examples of Fire Behavior in Jack Pine Stands](https://cwfis.cfs.nrcan.gc.ca/background/examples/fwi)
